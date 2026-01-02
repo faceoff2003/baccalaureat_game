@@ -15,7 +15,7 @@
 
 <br/>
 
-> 🎬 **Vidéo démo** : [Regarder sur YouTube](#) | 📱 **Télécharger l'APK** : [Releases](https://github.com/faceoff2003/baccalaureat-flutter/releases) | 🌐 **Web App** : [Jouer en ligne](https://ton-url.web.app)
+> 🎬 **Vidéo démo** : [Regarder sur YouTube](#) | 📱 **Télécharger l'APK** : [Releases](https://github.com/faceoff2003/baccalaureat_game/releases) | 🌐 **Web App** : [Jouer en ligne](https://ton-url.web.app)
 
 </div>
 
