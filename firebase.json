@@ -1,1 +1,30 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"bac-game-c5376","appId":"1:989897131748:android:39fe6c43bb6b11622d4ef1","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bac-game-c5376","configurations":{"android":"1:989897131748:android:39fe6c43bb6b11622d4ef1","web":"1:989897131748:web:fe53fdf30d68c5f72d4ef1"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "bac-game-c5376",
+          "appId": "1:989897131748:android:39fe6c43bb6b11622d4ef1",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "bac-game-c5376",
+          "configurations": {
+            "android": "1:989897131748:android:39fe6c43bb6b11622d4ef1",
+            "web": "1:989897131748:web:fe53fdf30d68c5f72d4ef1"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "y",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
