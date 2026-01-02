@@ -15,6 +15,8 @@
 
 <br/>
 
+> 🎬 **Vidéo démo** : [Regarder sur YouTube](#) | 📱 **Télécharger l'APK** : [Releases](#)
+
 </div>
 
 ---
